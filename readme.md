@@ -9,7 +9,7 @@ npm start
 
 ### vscode 说明
 
-安装`eslint`插件然后setting.json写入以下配置，方可实现保存时自动安装eslint规则格式化
+安装`eslint`插件然后setting.json写入以下配置，方可实现保存时自动按照eslint规则格式化
 
 ```javascript
 "eslint.validate": [
