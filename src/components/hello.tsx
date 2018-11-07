@@ -20,3 +20,19 @@ export const Hello = (props: HelloProps) => {
         </div>
     );
 };
+
+const l: any = console.log;
+
+//js 布尔值 数字 字符串 对象 null undefined
+//ts 布尔值 数字 字符串 数组 元祖Tuple 枚举 Any Void Null Undefined Never Object 类型断言
+
+enum Color {
+    red,
+    green
+}
+
+let x: number = 1;
+
+//x = null;
+
+l(x);
