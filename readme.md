@@ -3,6 +3,7 @@
 ### 快速开始
 
 ```bash
+npm i -g typescript  //如果没全局安装ts
 npm i 
 npm start
 ```

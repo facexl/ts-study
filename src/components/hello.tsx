@@ -16,7 +16,7 @@ export const Hello = (props: HelloProps) => {
             {colorName}
             {x[0]}
             {any}
-            <h1>Hello- fxrom x {props.compiler} and {props.framework}!</h1>
+            <h1>Hello from  {props.compiler} and {props.framework}!</h1>
         </div>
     );
 };
